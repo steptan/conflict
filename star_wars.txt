@@ -2,12 +2,12 @@ __ bad dudes
   Darth Vader
   The Emperor
   Jabba the Hutt
-  Chewbacca
   Darth Maul
   Qui-Gon Jinn
 
 __ good dudes
   Yoda
+  Chewbacca
   Leia Organa
   Boba Fett
   R2-D2
