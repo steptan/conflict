@@ -8,11 +8,4 @@ __ bad dudes
   Qui-Gon Jinn
 
 __ good dudes
-  Yoda
-  Leia Organa
-  Boba Fett
-  Han Solo
-  Luke Skywalker
-  The Emperor
-  Padme Amidala
-  Lando Calrissian
+  The rest of the character :p
