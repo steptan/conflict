@@ -1,0 +1,18 @@
+__ bad dudes
+  Darth Vader
+  The Emperor
+  Jabba the Hutt
+  Boba Fett
+  Darth Maul
+  Lando Calrissian
+
+__ good dudes
+  Yoda
+  Leia Organa
+  Han Solo
+  Luke Skywalker
+  Chewbacca
+  Padme Amidala
+  R2-D2
+  C-3PO
+  Qui-Gon Jinn
