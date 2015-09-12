@@ -1,18 +1,18 @@
 __ bad dudes
-  Darth Vader
-  R2-D2
-  C-3PO
   Jabba the Hutt
-  Chewbacca
   Darth Maul
   Qui-Gon Jinn
 
 __ good dudes
-  Yoda
   Leia Organa
+  Yoda  
   Boba Fett
-  Han Solo
+  Chewbacca
   Luke Skywalker
   The Emperor
   Padme Amidala
   Lando Calrissian
+  R2-D2
+  C-3PO
+  Han Solo
+  Darth Vader --spy...
