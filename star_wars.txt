@@ -1,18 +1,28 @@
 __ bad dudes
   Darth Vader
-  R2-D2
-  C-3PO
+  The Emperor
+  Kit Panaka
   Jabba the Hutt
-  Chewbacca
+  Boba Fett
   Darth Maul
+<<<<<<< HEAD
   Qui-Gon Jinn
   :)
+=======
+  Lando Calrissian
+
+>>>>>>> b3c07fd6a9aa9e579086a65d7f056484ac5de5df
 __ good dudes
   Yoda
-  Leia Organa
+  Kit Panaka
+  Jabba the Hutt
   Boba Fett
+  Leia Organa
   Han Solo
   Luke Skywalker
-  The Emperor
+  Chewbacca
   Padme Amidala
-  Lando Calrissian
+  R2-D2
+  C-3PO
+  Qui-Gon Jinn
+  Bultar Swan
