@@ -1,6 +1,7 @@
 __ bad dudes
   Darth Vader
   The Emperor
+  Kit Panaka
   Jabba the Hutt
   Boba Fett
   Darth Maul
@@ -8,6 +9,9 @@ __ bad dudes
 
 __ good dudes
   Yoda
+  Kit Panaka
+  Jabba the Hutt
+  Boba Fett
   Leia Organa
   Han Solo
   Luke Skywalker
@@ -18,4 +22,5 @@ __ good dudes
   Qui-Gon Jinn
 
 __ don't know
-  
+  Bultar Swan
+
